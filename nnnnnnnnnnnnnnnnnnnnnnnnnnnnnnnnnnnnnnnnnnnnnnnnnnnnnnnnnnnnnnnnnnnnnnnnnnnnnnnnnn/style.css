@@ -217,9 +217,17 @@ input {
     font-size: 22px;
     line-height: 50.35px;
     letter-spacing: 0%;
-    text-align: right;
-    display: flex;
 
+
+}
+
+.phone_and_numbers {
+    display: flex;
+    background-image: url("Ellipse 1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    gap: 100px;
 }
 
 .hhhhh img {
@@ -229,37 +237,9 @@ input {
 
 }
 
-.hhhhh {
-    background-image: url("Ellipse 1.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.hhhhh {}
 
 
-
-}
-
-.hhj {
-    margin-top: 500px !important;
-    margin-right: 200px;
-
-}
-
-.hhh {
-    margin-top: 500px !important;
-    margin-left: 200px;
-    margin-bottom: 100px;
-}
-
-.hhh, .hhj {
-    padding-bottom: 50px;
-}
-
-.hhh {
-    padding-top: 100px;
-}
 
 .or {
     width: 100px;
@@ -280,8 +260,7 @@ input {
     line-height: 50.35px;
     letter-spacing: 0%;
     color: #000;
-    display: flex;
-    justify-content: center;
+    
     margin-top: 50px;
 
 
@@ -295,8 +274,7 @@ input {
     line-height: 50.35px;
     letter-spacing: 0%;
     color: #75BF7A;
-    padding-left: 15px;
-    padding-right: 15px;
+
 
 }
 
@@ -307,20 +285,27 @@ input {
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
-    width: 620px;
     color: #9E9DA2;
     text-align: center;
-    padding-left: 650px;
-    padding-top: 20px;
+
 
 
 
 
 }
 
+.ggg {
+    text-align: end;
+}
+
+.ggg h4 {
+    text-align: end;
+}
+
 .ggg img {
     width: 60.81920623779297px;
     height: 60.81920623779297px;
+    
 }
 
 .ggg p {
@@ -329,25 +314,10 @@ input {
 
 }
 
-.ggg {
-    display: flex !important;
-    gap: 510px;
-    padding-left: 100px;
-    margin-bottom: 200px;
-    height: 178px;
-}
-
-.iii {
-    width: 278.9818115234375px !important;
-    height: 560px !important;
-    margin-bottom: 100px;
 
 
 
-}
 
-.hhh1 {
-    margin-top: 600px !important;
-    margin-left: 200px;
-    
+.phone_and_numbers_titles {
+    text-align: center;
 }
