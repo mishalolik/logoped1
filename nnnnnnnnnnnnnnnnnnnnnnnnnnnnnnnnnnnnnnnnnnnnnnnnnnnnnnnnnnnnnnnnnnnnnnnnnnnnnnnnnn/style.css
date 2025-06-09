@@ -1,7 +1,6 @@
-@font-face {
-    font-family: 'Gilroy';
-    src: url('Gilroy-Light.otf') format('otf');
-
+body {
+    background-color: #f9f9f9;
+    font-family: Gilroy;
 }
 
 .img1 {
@@ -26,6 +25,8 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-bottom: 37px;
+    background-color: #fff;
 }
 
 .button1 {
@@ -62,6 +63,8 @@ header {
 
 }
 
+
+
 h1 {
     font-family: Gilroy;
     font-weight: 800;
@@ -73,7 +76,7 @@ h1 {
 
 .div3 {
     margin-top: 163px;
-    
+
     margin-left: 80px;
 }
 
@@ -108,18 +111,243 @@ h1 {
 
 .div4 {
     display: flex;
-    gap:30px ;
+    gap: 30px;
     padding-top: 62px;
 }
 
 .section1 {
     display: flex;
-    background-color: #f4f3f3;
-    
+    justify-content: space-between;
 
 }
 
 .img2 {
     padding-top: 4px;
-    padding-left: 250px;
+    margin-right: 147px;
+}
+
+.div5 {
+    width: 1350px;
+    height: 166px;
+    margin-top: 89px;
+    border-radius: 10px;
+    background-color: #75BF7A;
+    display: flex;
+    justify-self: center;
+
+}
+
+.p3 {
+    width: 246px;
+    margin-top: 55px;
+    margin-left: 152px;
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 24.6px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+
+}
+
+.div6 {
+    width: 499px;
+    height: 67px;
+    margin-top: 50px;
+    margin-left: 122px;
+    border-radius: 4.39px;
+    background-color: white;
+    font-family: Gilroy;
+}
+
+.p4 {
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 0px;
+    letter-spacing: 0%;
+    width: 256px;
+    top: 38px;
+    left: 35px;
+    background-color: #DADADA;
+
+
+}
+
+.button3 {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 0px;
+    letter-spacing: 0%;
+    width: 260px;
+    height: 67px;
+    margin-top: 50px;
+    margin-left: 11px;
+    border-radius: 4.39px;
+    background-color: #000000;
+    color: #fff;
+    border: 0cap solid white;
+
+
+}
+
+input {
+    width: 499px;
+    height: 67px;
+    margin-top: 50px;
+    margin-left: 122px;
+    border-radius: 4.39px;
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 0px;
+    letter-spacing: 0%;
+    padding-left: 35px;
+
+
+
+}
+
+.za {
+    font-family: 'Gilroy';
+    font-weight: 900;
+
+    font-size: 22px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    text-align: right;
+    display: flex;
+
+}
+
+.hhhhh img {
+    width: 60.81920623779297px;
+    height: 60.81920623779297px;
+
+
+}
+
+.hhhhh {
+    background-image: url("Ellipse 1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+
+}
+
+.hhj {
+    margin-top: 500px !important;
+    margin-right: 200px;
+
+}
+
+.hhh {
+    margin-top: 500px !important;
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+
+.hhh, .hhj {
+    padding-bottom: 50px;
+}
+
+.hhh {
+    padding-top: 100px;
+}
+
+.or {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+
+    background-color: #75BF7A;
+}
+
+.hhhhh p {
+    width: 290px;
+}
+
+.h4 {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+
+
+}
+
+.span1 {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: #75BF7A;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.p5 {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 620px;
+    color: #9E9DA2;
+    text-align: center;
+    padding-left: 650px;
+    padding-top: 20px;
+
+
+
+
+}
+
+.ggg img {
+    width: 60.81920623779297px;
+    height: 60.81920623779297px;
+}
+
+.ggg p {
+    width: 290px;
+
+
+}
+
+.ggg {
+    display: flex !important;
+    gap: 510px;
+    padding-left: 100px;
+    margin-bottom: 200px;
+    height: 178px;
+}
+
+.iii {
+    width: 278.9818115234375px !important;
+    height: 560px !important;
+    margin-bottom: 100px;
+
+
+
+}
+
+.hhh1 {
+    margin-top: 600px !important;
+    margin-left: 200px;
+    
 }
