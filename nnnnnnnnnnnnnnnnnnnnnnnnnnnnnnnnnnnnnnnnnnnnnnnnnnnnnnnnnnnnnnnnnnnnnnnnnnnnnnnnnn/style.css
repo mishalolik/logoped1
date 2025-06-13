@@ -560,19 +560,21 @@ footer {
 
     .img77 {
         display: block;
-
+        margin-right: 20px;
     }
 
     header {
         align-items: center;
         display: flex;
+        padding-top: 40px;
+        justify-content: space-between;
     }
 
     .img1 {
         width: 93px;
         height: 26.350000381469727px;
-        margin-top: 45px;
+        margin: 0px;
         margin-left: 20px;
-        
+
     }
 }
