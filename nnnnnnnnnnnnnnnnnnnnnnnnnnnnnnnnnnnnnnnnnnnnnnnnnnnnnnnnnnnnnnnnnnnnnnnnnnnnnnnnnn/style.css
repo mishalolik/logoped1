@@ -1,6 +1,7 @@
 body {
     background-color: #f9f9f9;
     font-family: Gilroy;
+    border: none;
 }
 
 .img1 {
@@ -86,6 +87,7 @@ h1 {
     display: flex;
     width: 260px;
     height: 67px;
+    border: 0px solid black;
 
 
 }
@@ -228,6 +230,7 @@ input {
     background-position: center;
     justify-content: center;
     gap: 100px;
+    padding-top: 63px;
 }
 
 .hhhhh img {
@@ -237,7 +240,10 @@ input {
 
 }
 
-.hhhhh {}
+.hhhhh {
+    margin: top -20px;
+    ;
+}
 
 
 
@@ -260,7 +266,7 @@ input {
     line-height: 50.35px;
     letter-spacing: 0%;
     color: #000;
-    
+
     margin-top: 50px;
 
 
@@ -305,7 +311,7 @@ input {
 .ggg img {
     width: 60.81920623779297px;
     height: 60.81920623779297px;
-    
+
 }
 
 .ggg p {
@@ -320,4 +326,253 @@ input {
 
 .phone_and_numbers_titles {
     text-align: center;
+}
+
+.hhh1,
+.hhj {
+    margin-top: 84px;
+}
+
+.div4 a {
+    text-decoration: none;
+}
+
+#give {
+    border: 0px;
+}
+
+.asd {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: #000;
+    margin-top: 160px;
+    text-align: center;
+
+
+}
+
+.dsa {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: #75BF7A;
+    padding-right: 15px;
+}
+
+.ch {
+    background-color: #FFFFFF;
+    width: 1060px;
+    height: 304px;
+    border-radius: 10px;
+    margin-top: 56px;
+    display: flex;
+    margin-right: 630px;
+    justify-self: center;
+
+}
+
+.ch1 {
+    background-color: #FFFFFF;
+    width: 1060px;
+    height: 304px;
+    border-radius: 10px;
+    margin-top: 56px;
+    display: flex;
+    margin-left: 630px;
+    justify-self: center;
+}
+
+.own {
+    margin-top: 100px;
+}
+
+.ch h2,
+.ch1 h2,
+.ch2 h2 {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 88px;
+    line-height: 118.8px;
+    letter-spacing: 0%;
+    color: #75BF7A;
+
+}
+
+.gggg {
+    padding-top: 72px;
+    display: flex;
+}
+
+.hjl {
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 33.94px;
+    line-height: 32.5px;
+    letter-spacing: 0%;
+    margin-top: 30px;
+    margin-left: 39px;
+
+}
+
+.hot {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 23px;
+    letter-spacing: 0%;
+    color: #9E9DA2;
+
+}
+
+.hott {
+    justify-content: right;
+    padding-left: 300px;
+
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+}
+
+.hotttt {
+    justify-content: right;
+    padding-right: 290px;
+    padding-top: 24px;
+    padding-left: 50px;
+    padding-bottom: 24px;
+
+}
+
+.hottt {
+    display: flex;
+    flex-direction: column;
+    margin-left: 38px;
+}
+
+.hottttt {
+    justify-content: right;
+    margin-left: 150px;
+    padding-right: 30px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.ch2 {
+    background-color: #FFFFFF;
+    width: 1060px;
+    height: 304px;
+    border-radius: 10px;
+    margin-top: 56px;
+    display: flex;
+    margin-right: 630px;
+    justify-self: center;
+}
+
+footer {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 553px;
+    margin-top: 275px;
+    display: block;
+
+
+}
+
+.img7 {
+    margin-left: 150px;
+    margin-top: 125px;
+    padding-bottom: 105px;
+}
+
+.dnm {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.volume1,
+.volume {}
+
+.volume1 p,
+.volume p {
+    padding-top: 7px;
+    color: #8B8BA5;
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.volume h4,
+.volume1 h4 {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.hhhh11 {
+    margin-left: 300px;
+    display: flex;
+    gap: 73px;
+}
+
+.div700 {
+    display: flex;
+    gap: 30px;
+
+    margin-left: 200px;
+}
+
+.div700 a {
+    text-decoration: none;
+}
+
+.p777 {
+    color: #75BF7A;
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 38px;
+}
+
+.img77 {
+    display: none;
+}
+
+@media (max-width:600px) {
+    .div2 {
+        padding-top: 85px;
+        display: none;
+    }
+
+    .img77 {
+        display: block;
+
+    }
+
+    header {
+        align-items: center;
+        display: flex;
+    }
+
+    .img1 {
+        width: 93px;
+        height: 26.350000381469727px;
+        margin-top: 45px;
+        margin-left: 20px;
+        
+    }
 }
