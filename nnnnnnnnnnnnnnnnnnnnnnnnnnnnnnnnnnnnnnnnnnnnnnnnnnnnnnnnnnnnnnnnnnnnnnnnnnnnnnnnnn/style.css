@@ -59,6 +59,7 @@ header {
     line-height: 28px;
     letter-spacing: 0%;
     padding-top: 27px;
+    color: #9E9DA2;
 
 
 
@@ -112,9 +113,15 @@ h1 {
 }
 
 .div4 {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
     display: flex;
     gap: 30px;
-    padding-top: 62px;
+
 }
 
 .section1 {
@@ -495,8 +502,7 @@ footer {
 
 
 
-.volume1,
-.volume {}
+
 
 .volume1 p,
 .volume p {
@@ -552,7 +558,29 @@ footer {
     display: none;
 }
 
+.hhhh {
+    display: none;
+}
+
+.a2 {
+    display: flex;
+}
+.iiii {
+    display: none;
+}
+.nnn {
+    display: none;
+}
+
 @media (max-width:600px) {
+    .a2 {
+        display: none;
+    }
+
+    .section1 {
+        align-items: center;
+    }
+
     .div2 {
         padding-top: 85px;
         display: none;
@@ -576,5 +604,259 @@ footer {
         margin: 0px;
         margin-left: 20px;
 
+    }
+
+    .section1 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    h1 {
+        font-family: Gilroy;
+        font-weight: 800;
+        font-size: 34.89px;
+        line-height: 37.87px;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-right: 50px;
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    .p1 {
+        display: flex;
+        font-family: Gilroy;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: 0%;
+        text-align: center;
+        flex-wrap: wrap;
+        padding-top: 27px;
+        color: #9E9DA2;
+        margin: 0;
+        margin-left: 0px;
+        width: 300px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .div4 {
+        gap: 17px;
+        display: flex !important;
+    }
+
+    .div4 p {}
+
+    .button2 {
+        width: 151.272705078125px;
+        height: 38.84983444213867px;
+        border-radius: 2.91px;
+
+    }
+
+    .button2 p {
+        font-size: 17px;
+        margin-top: 0;
+    }
+
+    .div5 {
+        width: 320px;
+        height: 249px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .div5 p {
+        margin: 0;
+        padding: 0;
+    }
+
+    #give {
+        margin-left: 13px;
+        width: 260px;
+        height: 48px;
+        border-radius: 4.39px;
+
+    }
+
+    #give p {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .button3 {
+        width: 280px;
+        height: 48px;
+        border-radius: 4.39px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+
+    }
+
+    .ch,
+
+    .ch2 {
+        width: 320px;
+        height: 477px;
+        border-radius: 3.02px;
+        display: flex !important;
+        justify-content: space-around;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .ch1 {
+        width: 320px;
+        height: 477px;
+        border-radius: 3.02px;
+        display: flex !important;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        margin: 0;
+        padding: 0;
+    }
+
+    .ch img,
+    .ch1 img,
+    .ch2 img {
+        width: 225.7152099609375px;
+        height: 223.9846649169922px;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        margin-left: 50px;
+
+
+    }
+
+    .hjl {
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+
+    }
+
+    .hjl1 {
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+        font-family: Gilroy;
+        font-weight: 600;
+        font-size: 24.98px;
+        line-height: 23.92px;
+        letter-spacing: 0%;
+
+    }
+
+    footer {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .hhhh11 {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .volume {
+        margin: 0;
+        padding: 0;
+        gap: 0px;
+        margin-left: 170px;
+        margin-top: -120px;
+    }
+
+    .volume1 {
+        margin: 0;
+        padding: 0;
+        gap: 0px;
+        margin-left: 170px;
+        margin-top: -120px;
+        display: none;
+    }
+
+    .fog {
+        margin: 0;
+        padding: 0;
+        margin-top: 30px;
+        margin-right: 100px;
+        display: block;
+    }
+
+    .div700 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img2 {
+        width: 400px;
+        height: 400px;
+        padding-left: 100px;
+    }
+
+    .img7 {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .dnm {
+        display: flex;
+        justify-content: center;
+    }
+
+    .phone_and_numbers {
+        display: flex;
+        flex-direction: column;
+        background-position: 50% 80px;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 300px;
+        margin: 0;
+
+    }
+
+    .hhhh {
+        display: flex;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .nnn {
+        display: flex;
+    }
+
+    .iii {
+        display: none;
+    }
+
+    .iiii {
+        display: flex;
+        width: 223.18544006347656px;
+        height: 448px;
+        
+
+    }
+    .hhh,.hhh1,.hhh3,.hhj {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
     }
 }
