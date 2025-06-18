@@ -796,11 +796,8 @@ footer {
     }
 
     .div700 {
-        margin: 0;
-        padding: 0;
         display: flex;
         flex-direction: column;
-        margin-left: 145px;
     }
 
     .img2 {
@@ -828,7 +825,6 @@ footer {
         align-items: center;
         padding-bottom: 30px;
         margin: 0;
-        
 
     }
 
@@ -864,27 +860,5 @@ footer {
     }
     .ggg h4 {
         text-align: center;
-    }
-    .hhh img,.hhh1 img,.hhh3 img,.hhj img {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        justify-content: center;
-        margin: 0;
-        padding: 0;
-    }
-    .pos {
-        margin-right: 130px;
-    }
-    .p22 {
-        
-    }
-    .hhh1 h4,.hhh h4 {
-        display: flex;
-        justify-content: center;
-        text-align: center;
-    }
-    .hhhhh img,.ggg img {
-        margin-left: 200px;
     }
 }
